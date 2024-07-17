@@ -940,6 +940,10 @@ section,
   padding: 30px;
 }
 
+.contact .form-control {
+  border: solid black 1px;
+}
+
 @media (max-width: 575px) {
   .contact .info-wrap {
     padding: 20px;
